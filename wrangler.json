@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "curly-bird-ca83",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "857f41bf-ddc1-416a-a775-935db4f38248",
+      "database_name": "bold-waterfall-0a49-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
